@@ -1,0 +1,6 @@
+## Interface: 11400
+## Title: RandomMountClassic
+## Notes: Adds a random mount button for WoW Classic
+## Author: magtak
+## Version: 1.0
+RandomMountClassic.lua
